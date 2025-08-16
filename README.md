@@ -43,8 +43,8 @@ This project focused on creating a reliable and synchronized flag release system
 ---
 
 ## 📸 Project Media
-|<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/9eb8f4e0-b035-47c7-8254-024ac42541fe" />
- |<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/810f3ad0-9262-42cc-ae8d-995919d0639f" />
+|<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/9eb8f4e0-b035-47c7-8254-024ac42541fe" />
+ |<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/810f3ad0-9262-42cc-ae8d-995919d0639f" />
  |![IMG_0849 1](https://github.com/user-attachments/assets/15375c28-9c45-4070-859e-993c6c0f46ab)
 |
 
